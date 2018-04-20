@@ -7,4 +7,6 @@ struct User {
     let email: String
     let address: String
     let designation: String
+    let neha: String
+    let example: String
 }

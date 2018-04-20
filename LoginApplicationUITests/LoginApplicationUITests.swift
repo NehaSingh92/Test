@@ -1,10 +1,3 @@
-//
-//  LoginApplicationUITests.swift
-//  LoginApplicationUITests
-//
-//  Created by Pritesh Nandgaonkar on 22/4/17.
-//  Copyright © 2017 Pritesh Nandgaonkar. All rights reserved.
-//
 
 import XCTest
 
