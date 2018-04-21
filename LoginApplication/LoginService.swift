@@ -64,7 +64,7 @@ class LoginServiceDelegate: LoginService {
             return
         }
         
-        let user = User(name: username, userName: username, email: "\(username)@gmail.com", address: "Find me if you can", designation: "Software Developer")
+        let user = User(name: username, userName: username, email: "\(username)@gmail.com", address: "Find me if you can", designation: "Software Developer", Example: "neha")
         delegate.loginSuccessfull(withUser: user)
 //        completion(Result.success(user))
         
