@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LoginApplication 2.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4F3F430F32E3D6DEB8DF093E9351598D09D0D881</string>
+				<key>dateExpires</key>
+				<string>17/05/2018</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>6JK666BK2K.com.cgi.cicd</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>6JK666BK2K</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>6JK666BK2K.com.cgi.cicd</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>LoginApplication.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>cf2366d9-44ba-45f6-9063-92910465c48d</string>
+				<key>name</key>
+				<string>cicd</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>6JK666BK2K</string>
+				<key>name</key>
+				<string></string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
