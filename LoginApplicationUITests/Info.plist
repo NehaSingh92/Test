@@ -18,5 +18,9 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+    <key>method</key><string>ad-hoc</string><key>teamID</key><string>JK666BK2K</string>
+    <key>teamName</key><string>Neha Singh</string>
+    <key>iPhone Distribution</key><string>Neha Singh (6JK666BK2K)</string>
+    <key>Provisioning Profile</key><string>cf2366d9-44ba-45f6-9063-92910465c48d)</string>
 </dict>
 </plist>
