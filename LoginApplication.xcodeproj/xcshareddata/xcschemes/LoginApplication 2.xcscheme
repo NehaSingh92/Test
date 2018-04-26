@@ -29,6 +29,16 @@
       language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2129C2971EABA7840059ED37"
+               BuildableName = "LoginApplicationTests.xctest"
+               BlueprintName = "LoginApplicationTests"
+               ReferencedContainer = "container:LoginApplication.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
